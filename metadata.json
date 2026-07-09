@@ -1,0 +1,6 @@
+{
+  "name": "Brew Haven",
+  "description": "A modern premium coffee shop website with cinematic scroll animations, styled in an immersive gold and dark theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
